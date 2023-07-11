@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SilvacbGIT
 - 👀 I’m interested in aprender programação
-- 🌱 I’m currently learning ads e front end
+- 🌱 I’m currently learning (ads) e front end
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
